@@ -1,3 +1,15 @@
+LeetCode
+========
+
+### LeetCode Algorithm
+
+(Notes: "&hearts;" means you need to buy a book from Leetcode)
+
+
+| # | Title | Solution | Difficulty | Tag |
+|---| ----- | -------- | ---------- | --- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./array/two_sum.cpp)|Easy| unordered_map |
+
 # 数据结构
 
 
