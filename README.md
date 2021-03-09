@@ -77,4 +77,7 @@ http://blog.csdn.net/changyuanchn/article/details/17102037
 
 # 学习参考
 * https://github.com/changgyhub/leetcode_101/
+* https://github.com/haoel/leetcode/tree/master/algorithms/cpp
+* https://github.com/pezy/LeetCode
+* https://github.com/labuladong/fucking-algorithm
 
