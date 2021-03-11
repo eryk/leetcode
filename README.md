@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | --- |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./array/longest_common_prefix.cpp) | Easy | sort|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./array/roman_to_integer.cpp)|Easy| unordered_map |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./array/palindrome_number.cpp)|Easy| to_string, reverse |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./array/reverse_integer.cpp)|Easy| |
