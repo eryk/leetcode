@@ -8,7 +8,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | --- |
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./array/reverse_integer.cpp|Easy| |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./array/palindrome_number.cpp)|Easy| to_string, reverse |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./array/reverse_integer.cpp)|Easy| |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./array/two_sum.cpp)|Easy| vector,unordered_map |
 
 # 数据结构
