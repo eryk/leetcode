@@ -4,10 +4,12 @@
  * @Date: create in 2021/3/11 2:29 下午
  * @Description: 
  */
-#ifndef UTILS_H
+#ifndef LEETCODE_UTILS_H_
+#define LEETCODE_UTILS_H_
+
+#include <iostream>
 #include <string>
 #include <vector>
-#endif
 
 using namespace std;
 
@@ -21,3 +23,11 @@ string join(const vector<string> &v, char c) {
     return s;
 }
 
+void printVector(vector<int> &nums) {
+    for (int num : nums) {
+        cout << num << ",";
+    }
+    cout << endl;
+}
+
+#endif // LEETCODE_UTILS_H_
