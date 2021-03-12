@@ -1,7 +1,7 @@
 /**
  * @Author: xuqi
- * @Email: [xuqi86@gmail.com](mailto:xuqi86@gmail.com)
- * @Date: create in 2021/3/12 0012 13:24
+ * @Email: xuqi86@gmail.com
+ * @Date: create in 2021/3/12 13:24
  * @Description: https://leetcode.com/problems/valid-parentheses/
 */
 
