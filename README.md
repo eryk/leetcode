@@ -8,7 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | --- |
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./array/valid_parentheses.cpp) | stack |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./array/valid_parentheses.cpp) |Easy|stack|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./array/longest_common_prefix.cpp) | Easy | sort|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./array/roman_to_integer.cpp)|Easy| unordered_map |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./array/palindrome_number.cpp)|Easy| to_string, reverse |
