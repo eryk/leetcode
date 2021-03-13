@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | --- |
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./array/search_insert_position.cpp) |Easy| Binary Search, lower_bound |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./array/remove_element.cpp)|Easy| | 
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./array/remove_duplicates_from_sorted_array.cpp)| Easy | |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./array/valid_parentheses.cpp) |Easy|stack|
