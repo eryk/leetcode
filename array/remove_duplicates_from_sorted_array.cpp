@@ -30,6 +30,7 @@
 
 #include <iostream>
 #include <vector>
+#include "../utils.h"
 
 using namespace std;
 
@@ -50,12 +51,6 @@ int removeDuplicates(vector<int> &nums) {
     return pos;
 }
 
-void printVector(vector<int> &nums) {
-    for (int num : nums) {
-        cout << num << ",";
-    }
-    cout << endl;
-}
 
 int main() {
     vector<int> nums = {1, 1, 2};

@@ -23,9 +23,13 @@ string join(const vector<string> &v, char c) {
     return s;
 }
 
-void printVector(vector<int> &nums) {
-    for (int num : nums) {
-        cout << num << ",";
+template <typename AnyType>
+void printVector(vector<AnyType> &nums) {
+    for (int i = 0; i < nums.size();i++) {
+        cout << nums[i];
+        if(i != nums.size() - 1){
+            cout << ",";
+        }
     }
     cout << endl;
 }
