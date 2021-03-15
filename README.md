@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag | Note |
 |---| ----- | -------- | ---------- | --- | --- |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./array/pascals_triangle.cpp)|Easy|Array||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./array/merge_sorted_array.cpp)|Easy|Array||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./array/plus_one.cpp)|Easy|Array|vector.insert|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./array/maximum_subarray.cpp)|Easy|Array|Dynamic Programing|
