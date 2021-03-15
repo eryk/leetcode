@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag |
 |---| ----- | -------- | ---------- | --- |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./array/merge_sorted_array.cpp)|Easy||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./array/plus_one.cpp)|Easy|vector.insert|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./array/maximum_subarray.cpp)|Easy|Dynamic Programing|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./array/search_insert_position.cpp) |Easy| Binary Search, lower_bound |
