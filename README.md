@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Tag | Note |
 |---| ----- | -------- | ---------- | --- | --- |
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./array/pascals_triangle_ii.cpp)|Easy|Array||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./array/pascals_triangle.cpp)|Easy|Array||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./array/merge_sorted_array.cpp)|Easy|Array||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./array/plus_one.cpp)|Easy|Array|vector.insert|
