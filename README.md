@@ -6,22 +6,23 @@ LeetCode
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 
-| # | Title | Solution | Difficulty | Tag | Note |
-|---| ----- | -------- | ---------- | --- | --- |
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./array/pascals_triangle_ii.cpp)|Easy|Array||
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./array/pascals_triangle.cpp)|Easy|Array||
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[C++](./array/merge_sorted_array.cpp)|Easy|Array||
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./array/plus_one.cpp)|Easy|Array|vector.insert|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./array/maximum_subarray.cpp)|Easy|Array|Dynamic Programing|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./array/search_insert_position.cpp) |Easy|Array| Binary Search, lower_bound |
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./array/remove_element.cpp)|Easy|Array| | 
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./array/remove_duplicates_from_sorted_array.cpp)|Easy|Array| |
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./array/valid_parentheses.cpp) |Easy| | stack |
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./array/longest_common_prefix.cpp) |Easy| | sort |
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./array/roman_to_integer.cpp)|Easy| | unordered_map |
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./array/palindrome_number.cpp)|Easy| | to_string, reverse |
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./array/reverse_integer.cpp)|Easy| | |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./array/two_sum.cpp)|Easy|Array| vector,unordered_map |
+| # | Title | Solution                                                  | Difficulty | Tag | Note |
+|---| ----- |-----------------------------------------------------------| ---------- | --- | --- |
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./array/pascals_triangle_ii.cpp)                    |Easy|Array||
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./array/pascals_triangle.cpp)                       |Easy|Array||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./array/merge_sorted_array.cpp)                     |Easy|Array||
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./array/remove_duplicates_from_sorted_array_ii.cpp) |Array||
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./array/plus_one.cpp)                               |Easy|Array|vector.insert|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./array/maximum_subarray.cpp)                       |Easy|Array|Dynamic Programing|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./array/search_insert_position.cpp)                 |Easy|Array| Binary Search, lower_bound |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./array/remove_element.cpp)                         |Easy|Array| | 
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./array/remove_duplicates_from_sorted_array.cpp)    |Easy|Array| |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./array/valid_parentheses.cpp)                      |Easy| | stack |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./array/longest_common_prefix.cpp)                  |Easy| | sort |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./array/roman_to_integer.cpp)                       |Easy| | unordered_map |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./array/palindrome_number.cpp)                      |Easy| | to_string, reverse |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./array/reverse_integer.cpp)                        |Easy| | |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./array/two_sum.cpp)                                |Easy|Array| vector,unordered_map |
 
 # 数据结构
 
